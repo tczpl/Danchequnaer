@@ -1,3 +1,0 @@
-localhost
-用户名:root
-密码:（无）
